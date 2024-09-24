@@ -29,11 +29,11 @@ class PageLayout(StrEnum):
 
 class PageMode(StrEnum):
     USE_NONE = "UseNone"
-    USE_OUTLINES = 'UseOutlines'
-    USE_THUMBS = 'UseThumbs'
-    USE_FULLSCREEN = 'FullScreen'
-    USE_OC = 'UseOC'
-    USE_ATTACHEMENTS = 'UseAttachments'
+    USE_OUTLINES = "UseOutlines"
+    USE_THUMBS = "UseThumbs"
+    USE_FULLSCREEN = "FullScreen"
+    USE_OC = "UseOC"
+    USE_ATTACHEMENTS = "UseAttachments"
 
 
 class Direction(StrEnum):
